@@ -22,4 +22,4 @@
 | **git commit -m '(message to describe change)'** | Commits change to Git. | Message should be an imperative, this commit will _. *E.g. git commit -m 'add facts.txt file'* |
 |**git log** | Shows all commits. | A revert will show as a new commit. |
 | **git remote add origin git@github.com:(git username)/(repo name)** | ? | *E.g. git remote add origin git@github.com:kate-lau/terminal_commands.git*
-| **git push origin main** | ? |
+| **git push origin (branch name)** | Setting which specific branch in the repository the code is being sent to. | E.g. *git push origin main* |
